@@ -100,8 +100,6 @@ I'm a **Computer Science Graduate Student** at **New Jersey Institute of Technol
 
 ## **GitHub Stats** 📊
 
-![Deepesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepeshjami&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshjami&layout=compact&theme=radical)
 
 ---
