@@ -10,8 +10,8 @@ I'm a **Computer Science Graduate Student** at **New Jersey Institute of Technol
 
 ## **About Me** 🚀
 
-- 💻 **Currently Working On:** Building Hadoop-based pipelines for large-scale data processing and migrating on-premises clusters to AWS EMR.
-- 🌱 **Learning:** Advanced Cloud Computing, Data Mining, and Distributed Systems.
+- 💻 **Currently Working On:** Building Housing Platform for international students focusing on the pain points.
+- 🌱 **Learning:** Full Stack Development, Advanced Cloud Computing, Data Mining, and Distributed Systems.
 - 👯 **Looking to Collaborate On:** Open-source projects related to Big Data, Cloud-Native Applications, or Machine Learning.
 - 💬 **Ask Me About:** Big Data, Cloud Computing, RESTful APIs, or Software Engineering best practices.
 - 📫 **How to Reach Me:** [Email](mailto:deepesh.jami.2000@gmail.com) | [LinkedIn](https://linkedin.com/in/deepeshjami) | [Phone](tel:+1201369621)
